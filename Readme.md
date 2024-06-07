@@ -14,17 +14,17 @@
 
 ## Документация
 
-* ***[Plan](https://github.com/ArthurPetrosov/QA_Diploma)***
+* ***[Plan](https://github.com/ArthurPetrosov/QAMID_Diploma_Hospis/blob/master/Plan.md)***
 
 * ***[Check-list](https://docs.google.com/spreadsheets/d/1Q6AskZiSl0VI6rcCMvH2BwlXkXiNzRND/edit?usp=sharing&ouid=113078180960771241998&rtpof=true&sd=true)***
 
 * ***[Test-cases](https://docs.google.com/spreadsheets/d/1hHaSAK2a7GObKjU7suEjAoZKfVA7dtrV/edit#gid=1024578234)***
 
-* ***[Bugs issues](https://github.com/ArthurPetrosov/QA_Diploma)***
+* ***[Bugs issues](https://github.com/ArthurPetrosov/QA_Diploma](https://github.com/ArthurPetrosov/QAMID_Diploma_Hospis/issues)***
 
-* ***[Allure results](https://github.com/ArthurPetrosov/QA_Diploma)***
+* ***[Allure results](https://github.com/ArthurPetrosov/QAMID_Diploma_Hospis/tree/master/fmh_android_06_06_2024/allure-results)***
 
-* ***[Report](https://github.com/ArthurPetrosov/QA_Diploma)***
+* ***[Report](https://github.com/ArthurPetrosov/QA_Diploma](https://github.com/ArthurPetrosov/QAMID_Diploma_Hospis/blob/master/Result.md)***
 
 ## Тестового окружение
 
